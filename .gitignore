@@ -1,2 +1,3 @@
-*.o
+./target
+*.wav
 fm_transmitter
